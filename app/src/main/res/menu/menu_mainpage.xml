@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myownapps.yasser.mydictionary.Mainpage" >
+    <item android:id="@+id/action_settings"
+        android:title="Sometimes you do not find what is the meaning of this word and say you've seen this word before, and when translated is disappointed because the meaning is worse than the exact word but when I remember that I discovered 'that this word that they were before.'
+
+Here's our problem we need to ِA LITLE DICTIONARY You control THE WORDS WITH THIS DICTIONARY
+
+YOU CAN Define NEW WORDS,YOUR CARRER WORDS, AND EVERY WORD YOU NEED IN YOUR DAY  "
+        android:orderInCategory="100"
+
+        app:showAsAction="never" />
+</menu>

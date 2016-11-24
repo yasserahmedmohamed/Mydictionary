@@ -1,0 +1,1 @@
+include ':app', ':microsoft-translators-java-api-0.6.2-jar-with-dependencies'
